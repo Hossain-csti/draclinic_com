@@ -1,0 +1,310 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* navber */
+.location-icon {
+    color: #ffff;
+    margin-left: 150px;
+    font-size: 20px;
+}
+
+.location-address {
+    color: #ffff;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.call-icon {
+    font-size: 20px;
+    margin-left: 40px;
+    color: #ffff;
+}
+
+.call {
+    color: #ffff;
+    margin-left: 25px;
+    font-size: 18px;
+}
+
+.kkliu {
+    margin-left: 74px;
+    color: #ffff;
+    font-size: 11px;
+}
+
+.line-1 {
+    background-color: #ffff;
+    width: 100%;
+    height: 2px;
+    margin-top: 20px;
+}
+
+.line-2 {
+    background-color: #ffffff;
+    width: 100%;
+    height: 2px;
+    margin-top: 33px;
+
+}
+
+.button-line {
+    margin-top: 4px;
+    margin-left: 5rem;
+    position: absolute;
+    background-color: #ffff;
+    height: 19px;
+    width: 2px;
+}
+
+/* Navber items */
+.nav-items ul {
+    list-style: none;
+}
+
+.nav-items li a {
+    font-weight: 400;
+    color: #000;
+    text-decoration: none;
+    margin: 45px;
+}
+
+.shop-icon {
+    font-size: 25px;
+    margin-left: 50px;
+
+}
+
+/* Voted as one of the */
+.discription {
+    margin-top: -30rem;
+    margin-left: 5rem;
+}
+
+.discription h4 {
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.discription h1 {
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+
+.discription h6 {
+    color: #FFFFFF;
+    margin-top: 28px;
+}
+
+.book-consultation {
+    margin-top: 50px;
+    border: 2px solid #FFFFFF;
+    height: 46px;
+    width: 265px;
+    position: relative;
+}
+
+.book-consultation button {
+    color: #000;
+    border-radius: 0px;
+    background-color: #FFF;
+    margin-left: 1px;
+    width: 259px;
+    height: 40px;
+    margin-top: 1px;
+    font-size: 10px;
+    line-height: 10px;
+
+}
+
+
+/* OUR GOAL */
+.line-4 {
+    background-color: #6B7986;
+    width: 100%;
+    height: 2px;
+}
+
+.line-5 {
+    margin-top: 4px;
+    background-color: #6B7986;
+    width: 100%;
+    height: 1px;
+}
+
+.inspire p {
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 26px;
+    color: #6B7986;
+    font-weight: 300;
+}
+
+.line-6 {
+    background-color: #6B7986;
+    width: 100%;
+    height: 1px;
+}
+
+.line-7 {
+    margin-top: 4px;
+    background-color: #6B7986;
+    width: 100%;
+    height: 2px;
+}
+
+.book-ENQUIRE {
+    margin-left: 27rem;
+    margin-top: 25px;
+    border: 2px solid #000000;
+    height: 46px;
+    width: 265px;
+    position: relative;
+}
+
+.book-ENQUIRE button {
+    color: #000;
+    border-radius: 0px;
+    background-color: #ffffffdb;
+    margin-left: 1px;
+    width: 259px;
+    height: 40px;
+    margin-top: 1px;
+    font-size: 10px;
+    line-height: 10px;
+
+}
+
+/* Why Choose Dr. A Clinic */
+.Choose-clinic {
+    margin-top: -24rem;
+    color: #FFFFFF;
+    font-weight: 600;
+}
+
+.Choose-clinic h1 {
+    font-weight: 600;
+}
+
+
+/* skin */
+.card-1 {
+    width: 16rem;
+    background: #D9E6EE;
+    border: none;
+    border-radius: 0px;
+    height: 280px;
+}
+
+.card-body h3 {
+    margin-top: -30px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #0C4978;
+
+}
+
+.card-body h1 {
+    color: #AC7B18;
+    font-size: 45px;
+    margin-top: 15px;
+}
+
+.card-body h5 {
+    font-weight: 300;
+    color: #78A2DC;
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+/* OUR SPECIALTY */
+.SPECIALTY h1 {
+    color: #FFF;
+    margin-top: -48rem;
+    margin-left: 12rem;
+    font-size: 55px;
+    font-weight: 500;
+}
+
+.enhance p {
+    color: #FFF;
+    margin-top: -45rem;
+    height: 300px;
+    width: 374px;
+    line-height: 18px;
+}
+
+.line-8 {
+    margin-top: 231px;
+    height: 1px;
+    width: 73rem;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-left: 74px;
+
+}
+
+.line-9 {
+    margin-top: 44rem;
+    height: 1px;
+    width: 73rem;
+    background-color: #FFFFFF;
+    position: absolute;
+    margin-left: 74px;
+
+}
+
+.card-2 {
+    width: 13rem;
+}
+
+.card-2 h3 {
+    margin-left: -22px;
+    font-weight: 600;
+    margin-top: 8px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.card-2 p {
+    margin-left: -22px;
+    color: #FFFFFF;
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.more-services {
+    margin-top: 50px;
+    border: 2px solid #FFFFFF;
+    height: 46px;
+    width: 265px;
+    position: relative;
+}
+
+.more-services {
+    margin-left: 47rem;
+    margin-top: -86px;
+    border: 2px solid #FFFFFF;
+    height: 46px;
+    width: 265px;
+    position: relative;
+}
+
+.more-services button {
+    color: #000;
+    border-radius: 0px;
+    background-color: #FFF;
+    margin-left: 1px;
+    width: 259px;
+    height: 40px;
+    margin-top: 1px;
+    font-size: 10px;
+    line-height: 10px;
+
+}
