@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title-body{
+    font-size: 70px;
+    margin-top: 50px;
+    font-weight: 700;
+}
+
+
+.beautypress-gradient-separetor {
+    display: block;
+    height: 2px;
+    width: 130px;
+    background-image: -webkit-linear-gradient(175deg, rgba(236, 85, 152, 0) 0%, rgba(236, 85, 152, 0.26) 24%, rgba(236, 85, 152, 0.5) 46%, rgb(236, 85, 152) 100%);
+}
+
+.title{
+    font-size: 60px;
+    margin-left: -40px;
+
+}
+.title h2{
+    color: #f0f0f0;
+    font-size: 2.419em;
+    z-index: -1;
+    opacity: 1;
+}
